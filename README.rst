@@ -60,7 +60,7 @@ Unk
 
 get_gender_by_majority (method)
 *******************
-Returns gender of name. Possible results: Male, Famele and Unk (for unknown cases). **In this case, the function does not return 'unisex' and chooses to return the gender based on the number of examples per name, that is, if a name is mostly registered as masculine, this will be the output.**
+Returns gender of name. Possible results: Male, Famele and Unk (for unknown cases). **In this case, the function does not return 'unisex' and chooses to return the gender based on the number of examples per name.**
 
 |
 
